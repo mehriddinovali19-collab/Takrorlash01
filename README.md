@@ -34,7 +34,7 @@ Quyida siz bergan mavzular bo'yicha jami **60 ta masala** tayyorlandi. Har bir m
 10. 1 dan 50 gachagi sonlardan faqat 3 ga bo'linadiganlarini list comprehension yordamida yig'ing.
     *Misol:* natija boshlanishi `[3, 6, 9, 12, ..., 48]`
 11. Berilgan so'zlar ro'yxatidan faqat unli harf bilan boshlanadiganlarini ajratib oling.
-    *Misol:* `["olma","banan","anor","uzum"]` → `["olma","anor"]`
+*Misol:* `["olma","banan","anor","uzum"]` → `["olma","anor"]`
 12. Ikki o'lchamli (nested) list comprehension yordamida 5x5 ko'paytirish jadvalini hosil qiling.
     *Misol:* 1-qator `[1,2,3,4,5]`, 2-qator `[2,4,6,8,10]`, ...
 
