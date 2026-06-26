@@ -9,5 +9,4 @@ for key, value in dict2.items():
     else:
         result[key] = value
 
-
 print(result)
