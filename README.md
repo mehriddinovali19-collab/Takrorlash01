@@ -76,7 +76,7 @@ Quyida siz bergan mavzular bo'yicha jami **60 ta masala** tayyorlandi. Har bir m
 25. Matndagi har bir so'zning birinchi harfini katta qilib chiqaring (title case'ni qo'lda yozing).
     *Misol:* `"salom dunyo"` → `"Salom Dunyo"`
 26. Berilgan satrdagi unlilar sonini hisoblang.
-    *Misol:* `"Python dasturlash"` → unlilar soni: `5`
+    *Misol:* `"Python dasturlash"` → unlilar soni: `4`
 
 ## 12. String Slicing
 27. Berilgan satrni teskari tartibda chiqaring (slicing yordamida, `[::-1]`).
