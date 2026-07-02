@@ -90,7 +90,7 @@ Quyida siz bergan mavzular bo'yicha jami **60 ta masala** tayyorlandi. Har bir m
 30. Uchta sonni solishtirib, eng kattasini if-elif-else yordamida toping.
     *Misol:* `4, 9, 7` → eng katta: `9`
 
-## 14. While Loop
+## 14. Whi le Loop
 31. `while` loop yordamida 1 dan 100 gachagi sonlar yig'indisini hisoblang.
     *Misol:* natija: `5050`
 32. Foydalanuvchidan son kiritishni "stop" so'zi kiritilguncha davom ettiring va kiritilgan sonlar o'rtachasini chiqaring.
